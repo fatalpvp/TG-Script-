@@ -1,6 +1,6 @@
 # 🚀 Telegram Spammer Bot
 
-![Banner](https://i.imgur.com/yP8EwKd.png)
+![Banner]
 
 ---
 
