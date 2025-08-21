@@ -1,6 +1,7 @@
 # 🚀 Telegram Spammer Bot
 
-![Telegram Script by sudopvp](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&pause=1000&color=00FF9F&background=1a1a1a&center=true&vCenter=true&width=980&lines=Telegram+Script+by+sudopvp;Python+%7C+Telegram+Bot+%7C+Cross-platform)
+![Telegram Script by sudopvp](https://readme-typing-svg.herokuapp.com?size=42&duration=4000&pause=1000&color=00FF9F&background=00000000&center=true&vCenter=true&width=980&lines=Telegram+Script+by+sudopvp;Fast+and+Simple+Telegram+Spammer+%F0%9F%93%A3)
+
 
 
 ---
